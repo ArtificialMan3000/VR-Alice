@@ -1,0 +1,4 @@
+repository "VR_Alice/VR_Alice@3692930@cloud"
+  path "/"
+    br "/main"
+    co "/main"
