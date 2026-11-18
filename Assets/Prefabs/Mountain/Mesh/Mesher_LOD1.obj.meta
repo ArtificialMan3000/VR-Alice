@@ -109,5 +109,5 @@ AssetOrigin:
   productId: 258730
   packageName: Background Mountain FREE
   packageVersion: 1.0
-  assetPath: Assets/SuperiorWorlds/Highlands/Mountains/FREE/Mesh/Mesher_LOD1.obj
+  assetPath: Assets/Prefabs/Mountain/Mesh/Mesher_LOD1.obj
   uploadId: 598792

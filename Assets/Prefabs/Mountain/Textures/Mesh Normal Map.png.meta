@@ -138,6 +138,5 @@ AssetOrigin:
   productId: 258730
   packageName: Background Mountain FREE
   packageVersion: 1.0
-  assetPath: Assets/SuperiorWorlds/Highlands/Mountains/FREE/Textures/Mesh Normal
-    Map.png
+  assetPath: Assets/Prefabs/Mountain/Textures/Mesh Normal Map.png
   uploadId: 598792
